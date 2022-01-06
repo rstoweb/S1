@@ -1,0 +1,18 @@
+body {
+    margin: 0;
+    font-size: 18px;
+    font-family: Lato, sans-serif;
+    color:#2e354f;
+}
+/* Layout */
+header {
+    background: #2e354f;
+    padding: 45px 0;
+    color: #fff;
+}
+
+.container {
+    width: 50%;
+    max-width: 800px;
+    margin: 0 auto;
+}
