@@ -16,3 +16,58 @@ header {
     max-width: 800px;
     margin: 0 auto;
 }
+section img {
+    width: 300px;
+}
+
+section {
+    padding: 45px 0;
+}
+
+footer {
+    background: #2e354f;
+    color: #fff;
+    padding: 45px 0;
+}
+
+h1, h2, strong {
+    font-weight: 900;
+}
+
+/* Typography */
+h1 {
+    font-size: 36px;
+    margin: 0;
+}
+
+h2 {
+    font-size: 24px;
+    color: #ef5839;
+}
+
+a {
+    color: #ef5839;
+    text-decoration: none;
+}
+
+a:hover,
+a:active {
+    color: #d4b44c;
+}
+
+/* Buttons */
+.btn {
+    text-decoration: none;
+    display: inline-block;
+    padding: 10px 25px;
+}
+
+.btn-accent {
+    background: #ef5839;
+    color: #fff;
+}
+
+.btn-white {
+    background: #fff;
+    color: #ef5839;
+}
